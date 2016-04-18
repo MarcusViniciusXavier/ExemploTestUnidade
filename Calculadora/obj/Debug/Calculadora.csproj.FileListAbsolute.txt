@@ -1,0 +1,5 @@
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\TesteDeUnidade\bin\Debug\Calculadora.exe.config
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\TesteDeUnidade\bin\Debug\Calculadora.exe
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\TesteDeUnidade\bin\Debug\Calculadora.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\TesteDeUnidade\obj\Debug\Calculadora.exe
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\TesteDeUnidade\obj\Debug\Calculadora.pdb

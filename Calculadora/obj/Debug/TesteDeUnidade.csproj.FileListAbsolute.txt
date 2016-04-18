@@ -1,0 +1,5 @@
+c:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\TesteDeUnidade\bin\Debug\TesteDeUnidade.exe.config
+c:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\TesteDeUnidade\bin\Debug\TesteDeUnidade.exe
+c:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\TesteDeUnidade\bin\Debug\TesteDeUnidade.pdb
+c:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\TesteDeUnidade\obj\Debug\TesteDeUnidade.exe
+c:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\TesteDeUnidade\obj\Debug\TesteDeUnidade.pdb

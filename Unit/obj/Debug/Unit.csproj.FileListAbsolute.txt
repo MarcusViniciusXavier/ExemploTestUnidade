@@ -1,0 +1,17 @@
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\obj\Debug\Unit.csprojResolveAssemblyReference.cache
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\xunit.abstractions.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\Unit.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\Unit.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\TesteDeUnidade.exe
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\xunit.assert.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\xunit.core.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\TesteDeUnidade.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\xunit.assert.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\xunit.assert.xml
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\xunit.core.pdb
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\bin\Debug\xunit.core.xml
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\obj\Debug\Unit.dll
+C:\Users\Hide\Documents\Visual Studio 2012\Projects\TesteDeUnidade\Unit\obj\Debug\Unit.pdb
