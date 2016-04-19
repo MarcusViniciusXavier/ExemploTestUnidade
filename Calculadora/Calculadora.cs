@@ -14,7 +14,6 @@ namespace TesteDeUnidade
         { return n1 - n2; }
         public static decimal Multiplicar(decimal n1, decimal n2) 
         {  return n1 * n2; }
-
         public static decimal Dividir (decimal n1 , decimal n2)
         {
             if (n2 == 0)
